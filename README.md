@@ -58,3 +58,11 @@ Launch Aruco Detection :
 ```
 roslaunch aruco_detection_ros detection.launch
 ```
+
+### Output : 
+<br>
+
+![Aruco_Rover](https://user-images.githubusercontent.com/75236655/183000738-ff16b3c0-1e36-4f31-bcf1-1e0582349352.gif)
+<br>
+
+![aruco_stat_comp](https://user-images.githubusercontent.com/75236655/183000753-6fd48747-6348-4eba-976b-297a02f5d776.gif)
